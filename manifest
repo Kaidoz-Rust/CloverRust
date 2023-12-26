@@ -326,7 +326,7 @@
    "Servers":{
       "Official":[
          {
-            "Address":"185.207.214.179",
+            "Address":"s1.hks.network",
             "Port":35033,
             "Tags":""
          },
