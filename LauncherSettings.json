@@ -12,7 +12,7 @@
   ],
   "Servers": [
     {
-      "Название сервера": "Fine Rust 240 DEV MOD X2-X5",
+      "Название сервера": "Test Server 245 DEV",
       "HexColor": "#51DF70",
       "Ip": "194.147.90.117",
       "VersionDev": "240",
@@ -20,7 +20,7 @@
       "QueryPort": 35000
     },
     {
-      "Название сервера": "Fine Rust 240 DEV SEMI CLASSIC",
+      "Название сервера": "Test Server 245 DEV SEMI CLASSIC",
       "HexColor": "#51DF70",
       "Ip": "5.42.211.29",
       "VersionDev": "240",
