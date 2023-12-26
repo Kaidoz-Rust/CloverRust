@@ -14,18 +14,10 @@
     {
       "Название сервера": "Test Server 245 DEV",
       "HexColor": "#51DF70",
-      "Ip": "194.147.90.117",
-      "VersionDev": "240",
-      "Port": 35000,
-      "QueryPort": 35000
-    },
-    {
-      "Название сервера": "Test Server 245 DEV SEMI CLASSIC",
-      "HexColor": "#51DF70",
-      "Ip": "5.42.211.29",
-      "VersionDev": "240",
-      "Port": 35001,
-      "QueryPort": 35001
+      "Ip": "s1.hks.network",
+      "VersionDev": "245",
+      "Port": 35006,
+      "QueryPort": 35006
     }
   ]
 }
