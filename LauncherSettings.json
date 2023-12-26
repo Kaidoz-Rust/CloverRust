@@ -1,8 +1,8 @@
 {
   "UrlTelegram": "",
-  "UrlDiscord": "https://discord.com/invite/Qa8xyJhKBw",
-  "UrlVk": "https://vk.com/fine.rust",
-  "UrlShop": "https://finerust.ru",
+  "UrlDiscord": "",
+  "UrlVk": "",
+  "UrlShop": "",
   "DevBlogs": [
     {
       "Девблог": "240",
@@ -13,6 +13,7 @@
   "Servers": [
     {
       "Название сервера": "Fine Rust 240 DEV MOD X2-X5",
+      "HexColor": "51DF70",
       "Ip": "194.147.90.117",
       "VersionDev": "240",
       "Port": 35000,
@@ -20,6 +21,7 @@
     },
     {
       "Название сервера": "Fine Rust 240 DEV SEMI CLASSIC",
+      "HexColor": "51DF70",
       "Ip": "5.42.211.29",
       "VersionDev": "240",
       "Port": 35001,
