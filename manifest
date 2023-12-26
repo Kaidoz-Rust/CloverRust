@@ -7,7 +7,7 @@
             "Date":"2023-06-01T02:00:00",
             "ShortName":"bags-to-battles",
             "Title":"Bags to Battles",
-            "HeaderImage":"hhttps://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+            "HeaderImage":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
             "SummaryHtml":"This month's update brings you respawn changes, the Shipping Container-building skin, creation-building effects & many improvements and fixes.",
             "Url":"https://rust.facepunch.com/blog/bags-to-battles/",
             "Tags":"Devblog"
@@ -16,7 +16,7 @@
             "Date":"2023-05-27T10:00:00",
             "ShortName":"community-update-252",
             "Title":"Community Update 252",
-            "HeaderImage":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+            "HeaderImage":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
             "SummaryHtml":"Creator Program, parodies, tattoos, solo events, remixes, and more!",
             "Url":"https://rust.facepunch.com/blog/community-update-252/",
             "Tags":"Community"
@@ -25,7 +25,7 @@
             "Date":"2023-05-04T14:00:00",
             "ShortName":"r-u-s-t",
             "Title":"R.U.S.T",
-            "HeaderImage":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+            "HeaderImage":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
             "SummaryHtml":"Repopulation Unit Survival Test has begun, again? This Month's update brings the new Missile silo monument, lore, wipe events, SMG weapon buffs, building skins and much more.\u00A0\u00A0",
             "Url":"https://rust.facepunch.com/blog/r-u-s-t/",
             "Tags":"DEVBLOG"
@@ -39,7 +39,7 @@
          "HeroId":53,
          "Ident":"trustinrust4",
          "MediaUrl":"https://files.facepunch.com/errn/1b1511b1/tr21-ingame-compressed.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+         "TitleText":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
          "ActionText":"Get Synced",
          "TargetUrl":"https://twitch.facepunch.com/",
          "Conditions":"",
@@ -49,7 +49,7 @@
          "HeroId":54,
          "Ident":"springsale23",
          "MediaUrl":"https://files.facepunch.com/errn/1b1511b1/SS-Ingame_Hero.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+         "TitleText":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
          "ActionText":"Buy now!",
          "TargetUrl":"https://store.steampowered.com/publisher/facepunch",
          "Conditions":"",
@@ -59,7 +59,7 @@
          "HeroId":55,
          "Ident":"twitchrivals3",
          "MediaUrl":"https://files.facepunch.com/Errn/1b1511b1/td22-ingame-1080_compressed.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+         "TitleText":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
          "ActionText":"Get Drops!",
          "TargetUrl":"https://twitch.facepunch.com/",
          "Conditions":"",
@@ -69,7 +69,7 @@
          "HeroId":56,
          "Ident":"abysspack",
          "MediaUrl":"https://files.facepunch.com/paddy/20230706/rust_abyss_itempack_hero_v001.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b2211b1/Planning-Table.png",
+         "TitleText":"https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
          "ActionText":"Visit Store",
          "TargetUrl":"itemstore:general",
          "Conditions":"",
@@ -100,7 +100,7 @@
    },
    "Metadata":{
       "LoadingScreens":[
-         "https://files.facepunch.com/errn/1b2211b1/Planning-Table.png"
+         "https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg"
       ],
       "BlockedServers":[],
       "TrophyPages":[
