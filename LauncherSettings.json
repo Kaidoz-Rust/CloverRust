@@ -21,4 +21,14 @@
       "QueryPort": 35033
     }
   ]
+  [
+    {
+      "Название сервера": "Test Server 245 DEV",
+      "HexColor": "#51DF70",
+      "Ip": "s1.hks.network",
+      "VersionDev": "245",
+      "Port": 35035,
+      "QueryPort": 35035
+    }
+  ]
 }
