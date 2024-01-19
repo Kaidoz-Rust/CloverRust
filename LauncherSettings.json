@@ -13,20 +13,20 @@
   ],
   "Servers": [
     {
-      "Название сервера": "Test Server 245 DEV",
-      "HexColor": "#51DF70",
+      "Название сервера": "CLOVER RUST BLUE [ X3 | UNLIMIT | SEMICLASSIC]",
+      "HexColor": "#191970",
       "Ip": "s1.hks.network",
       "VersionDev": "245",
-      "Port": 35033,
-      "QueryPort": 35033
+      "Port": 35035,
+      "QueryPort": 35035
     },
     {
-      "Название сервера": "Test Server 245 DEV",
-      "HexColor": "#51DF70",
+      "Название сервера": "CLOVER RUST [ X2 | NOLIMIT | CLANS ]",
+      "HexColor": "#00FF00",
       "Ip": "s1.hks.network",
       "VersionDev": "245",
       "Port": 35033,
       "QueryPort": 35033
     }
   ]
-
+}
