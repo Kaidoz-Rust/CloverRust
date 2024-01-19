@@ -13,7 +13,7 @@
   ],
   "Servers": [
     {
-      "Название сервера": "Clover Green [ X2 | NOLIMIT | CLANS ]",
+      "Название сервера": "Green [ X2 | NOLIMIT | CLANS ]",
       "HexColor": "#00FF00",
       "Ip": "s1.hks.network",
       "VersionDev": "245",
@@ -21,7 +21,7 @@
       "QueryPort": 35033
     },
     {
-      "Название сервера": "Clover Blue [ X3 | UNLIMIT | SEMICLASSIC]",
+      "Название сервера": "Blue [ X3 | UNLIMIT | SEMICLASSIC]",
       "HexColor": "#191970",
       "Ip": "s1.hks.network",
       "VersionDev": "245",
