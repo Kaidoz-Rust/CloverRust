@@ -22,7 +22,7 @@
     },
     {
       "Название сервера": "Blue [ X3 | UNLIMIT | SEMICLASSIC]",
-      "HexColor": "#00FFFF",
+      "HexColor": "#000080",
       "Ip": "s1.hks.network",
       "VersionDev": "245",
       "Port": 35035,
