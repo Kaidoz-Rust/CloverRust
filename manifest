@@ -1,56 +1,205 @@
 {
    "ManifestVersion":3,
-   "Date":"2023-07-15T12:12:14.3426338Z",
+   "Date":"2024-01-20T13:23:18.1314568Z",
    "News":{
       "Blogs":[
          {
-            "Date":"2023-07-06T02:00:00",
-            "ShortName":"deep-sea",
-            "Title":"Deep Sea",
-            "HeaderImage":"https://files.facepunch.com/paddy/20230630/abyss_diversuit_hero.jpg",
-            "SummaryHtml":"This month's Rust update brings you an updated water system, drivable Tugboat with a buildable area, Abyss Item pack, Ferry terminal monument, and the usual fixes and improvements.",
-            "Url":"https://rust.facepunch.com/blog/deep-sea/",
-            "Tags":"Devblog"
-         },
-         {
-            "Date":"2023-06-30T12:00:00",
-            "ShortName":"community-update-253",
-            "Title":"Community Update 253",
-            "HeaderImage":"https://files.facepunch.com/Errn/1b3011b1/Tesla_Coil.png",
-            "SummaryHtml":"Amazing cinematics, Community-driven events, Rust discounts and more!",
-            "Url":"https://rust.facepunch.com/blog/community-update-253/",
-            "Tags":"Community"
-         },
-         {
-            "Date":"2023-06-01T02:00:00",
-            "ShortName":"bags-to-battles",
-            "Title":"Bags to Battles",
-            "HeaderImage":"https://files.facepunch.com/paddy/20220301/altlook_cover.jpg",
-            "SummaryHtml":"This month's update brings you respawn changes, the Shipping Container-building skin, creation-building effects & many improvements and fixes.",
-            "Url":"https://rust.facepunch.com/blog/bags-to-battles/",
-            "Tags":"Devblog"
-         },
-         {
-            "Date":"2023-05-27T10:00:00",
-            "ShortName":"community-update-252",
-            "Title":"Community Update 252",
-            "HeaderImage":"https://files.facepunch.com/Errn/1b2511b1/FishingVillageScreen_2.png",
-            "SummaryHtml":"Creator Program, parodies, tattoos, solo events, remixes, and more!",
-            "Url":"https://rust.facepunch.com/blog/community-update-252/",
-            "Tags":"Community"
-         },
-         {
-            "Date":"2023-05-04T14:00:00",
-            "ShortName":"r-u-s-t",
-            "Title":"R.U.S.T",
-            "HeaderImage":"https://files.facepunch.com/paddy/20230504/nukesilo_monument_menubg.jpg",
-            "SummaryHtml":"Repopulation Unit Survival Test has begun, again? This Month's update brings the new Missile silo monument, lore, wipe events, SMG weapon buffs, building skins and much more.\u00A0\u00A0",
-            "Url":"https://rust.facepunch.com/blog/r-u-s-t/",
+            "Date":"2024-01-04T13:45:00",
+            "ShortName":"surviving-a-decade",
+            "Title":"Surviving a Decade",
+            "HeaderImage":"https://files.facepunch.com/Alistair/115/12/2023/4M95/2023-recap.jpg",
+            "SummaryHtml":"Servers are now wiped, Santa is packing up and clearing out the bodies, we hope you enjoyed the Holiday Season. In this blog, we recap 2023 and reveal some upcoming changes.",
+            "Url":"https://rust.facepunch.com/blog/surviving-a-decade/",
             "Tags":"DEVBLOG"
+         },
+         {
+            "Date":"2023-12-16T09:15:00",
+            "ShortName":"merry-rustmas-23",
+            "Title":"Merry Rustmas",
+            "HeaderImage":"https://files.facepunch.com/Alistair/113/12/2023/4P26/1920x1080%20-%20Winter%20header%20Graphic.jpg",
+            "SummaryHtml":"Season's beatings! It's that wonderful time of the year again. The Xmas event is now enabled, gingerbread houses, and Rustmas base decorating competition!",
+            "Url":"https://rust.facepunch.com/blog/merry-rustmas-23/",
+            "Tags":"DEVBLOG"
+         },
+         {
+            "Date":"2023-12-07T06:00:00",
+            "ShortName":"10-years-of-rust",
+            "Title":"10 Years Of Rust",
+            "HeaderImage":"https://files.facepunch.com/Alistair/107/12/2023/1I15/maxresdefault.jpg",
+            "SummaryHtml":"This month we celebrate Rust's 10th birthday. Birthday event, throw back items to Rust Legacy, new weapon, twitch drops, 20 QOL features, and much more!",
+            "Url":"https://rust.facepunch.com/blog/10-years-of-rust/",
+            "Tags":"DEVBLOG"
+         },
+         {
+            "Date":"2023-11-27T01:00:00",
+            "ShortName":"community-update-258",
+            "Title":"Community Update 258",
+            "HeaderImage":"https://files.facepunch.com/Errn/1b2011b1/Paratrooper_nuts_small.jpg",
+            "SummaryHtml":"Steam Awards, Multiple Cinematics, Global Warfare, Youtube Achievements, Support a Streamer Event, and more!",
+            "Url":"https://rust.facepunch.com/blog/community-update-258/",
+            "Tags":"Community"
+         },
+         {
+            "Date":"2023-11-21T03:28:00",
+            "ShortName":"steamawards2023",
+            "Title":"2023 Steam AWARDS",
+            "HeaderImage":"https://i.imgur.com/nClIfJM.png",
+            "SummaryHtml":"This year's Steam Awards sees Rust enter for the 'Labour of Love' category. After 10 years of the game, it's updates, and content, we are officially putting our hat in the ring!",
+            "Url":"https://rust.facepunch.com/blog/steamawards2023/",
+            "Tags":""
          }
       ]
    },
-   "Administrators":[],
+   "Administrators":[
+      {
+         "UserId":"76561197960279927",
+         "Level":"Administrator"
+      },
+      {
+         "UserId":"76561197960530564",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197965370356",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197965938208",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197971267225",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197983412091",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197992746895",
+         "Level":"Administrator"
+      },
+      {
+         "UserId":"76561197995736806",
+         "Level":"Administrator"
+      },
+      {
+         "UserId":"76561197997806304",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198072487602",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198116916566",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198240345356",
+         "Level":"Administrator"
+      },
+      {
+         "UserId":"76561198051504750",
+         "Level":"Moderator"
+      },
+      {
+         "UserId":"76561197993533988",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197960520255",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197985317446",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198299879894",
+         "Level":"Moderator"
+      },
+      {
+         "UserId":"76561198167084989",
+         "Level":"Moderator"
+      },
+      {
+         "UserId":"76561197969146424",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198204466708",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198008097027",
+         "Level":"Administrator"
+      },
+      {
+         "UserId":"76561197975976696",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197978798951",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198002164049",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197960951824",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197961016649",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198104673895",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198348127571",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198053736758",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197994097323",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198433846581",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198084552102",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561199336668941",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197970838644",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198039859084",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561198075121497",
+         "Level":"Developer"
+      },
+      {
+         "UserId":"76561197999311787",
+         "Level":"Developer"
+      }
+   ],
    "Heroes":[
       {
          "HeroId":15,
@@ -63,16 +212,6 @@
          "Chance":0.1
       },
       {
-         "HeroId":18,
-         "Ident":"secretlab01",
-         "MediaUrl":"https://files.facepunch.com/paddy/20201001/secretlab_herovid.mp4",
-         "TitleText":"",
-         "ActionText":"Buy Now",
-         "TargetUrl":"https://secretlab.co/rust",
-         "Conditions":"",
-         "Chance":0
-      },
-      {
          "HeroId":30,
          "Ident":"voiceprops01",
          "MediaUrl":"https://files.facepunch.com/paddy/20210702/voiceprops_hero.mp4",
@@ -80,7 +219,7 @@
          "ActionText":"DLC",
          "TargetUrl":"appid:1670430",
          "Conditions":"",
-         "Chance":0.2
+         "Chance":0
       },
       {
          "HeroId":37,
@@ -90,7 +229,7 @@
          "ActionText":"Visit Store",
          "TargetUrl":"itemstore:general",
          "Conditions":"",
-         "Chance":0.2
+         "Chance":0
       },
       {
          "HeroId":40,
@@ -100,7 +239,7 @@
          "ActionText":"Out Now",
          "TargetUrl":"https://store.steampowered.com/app/1701720/Rust_Soundtrack/",
          "Conditions":"",
-         "Chance":0.1
+         "Chance":0
       },
       {
          "HeroId":42,
@@ -120,7 +259,7 @@
          "ActionText":"Visit Store",
          "TargetUrl":"itemstore:general",
          "Conditions":"",
-         "Chance":0.2
+         "Chance":0
       },
       {
          "HeroId":50,
@@ -140,36 +279,6 @@
          "ActionText":"Visit Store",
          "TargetUrl":"itemstore:general",
          "Conditions":"",
-         "Chance":0.2
-      },
-      {
-         "HeroId":53,
-         "Ident":"trustinrust4",
-         "MediaUrl":"https://files.facepunch.com/errn/1b1511b1/tr21-ingame-compressed.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b1511b1/tr-21-overlay.png",
-         "ActionText":"Get Synced",
-         "TargetUrl":"https://twitch.facepunch.com/",
-         "Conditions":"",
-         "Chance":0
-      },
-      {
-         "HeroId":54,
-         "Ident":"springsale23",
-         "MediaUrl":"https://files.facepunch.com/errn/1b1511b1/SS-Ingame_Hero.mp4",
-         "TitleText":"https://files.facepunch.com/errn/1b1511b1/ss-ingame-overlay.png",
-         "ActionText":"Buy now!",
-         "TargetUrl":"https://store.steampowered.com/publisher/facepunch",
-         "Conditions":"",
-         "Chance":0
-      },
-      {
-         "HeroId":55,
-         "Ident":"twitchrivals3",
-         "MediaUrl":"https://files.facepunch.com/Errn/1b1511b1/td22-ingame-1080_compressed.mp4",
-         "TitleText":"https://files.facepunch.com/Errn/1b1511b1/td22-ingame-overlay.png",
-         "ActionText":"Get Drops!",
-         "TargetUrl":"https://twitch.facepunch.com/",
-         "Conditions":"",
          "Chance":0
       },
       {
@@ -180,7 +289,67 @@
          "ActionText":"Visit Store",
          "TargetUrl":"itemstore:general",
          "Conditions":"",
-         "Chance":0.8
+         "Chance":0
+      },
+      {
+         "HeroId":57,
+         "Ident":"brickskin",
+         "MediaUrl":"https://files.facepunch.com/paddy/20230802/brickskin_hero.mp4",
+         "TitleText":"https://files.facepunch.com/paddy/20230802/brickskin_hero_gfx.png",
+         "ActionText":"Visit Store",
+         "TargetUrl":"itemstore:general",
+         "Conditions":"",
+         "Chance":0.3
+      },
+      {
+         "HeroId":59,
+         "Ident":"weaponracks",
+         "MediaUrl":"https://files.facepunch.com/paddy/20230908/weaponracks_hero.mp4",
+         "TitleText":"https://files.facepunch.com/paddy/20230908/weaponracks_hero_gfx.png",
+         "ActionText":"Visit Store",
+         "TargetUrl":"itemstore:general",
+         "Conditions":"",
+         "Chance":0
+      },
+      {
+         "HeroId":60,
+         "Ident":"brutalistskin",
+         "MediaUrl":"https://files.facepunch.com/paddy/20231005/brutalistskin_hero.mp4",
+         "TitleText":"https://files.facepunch.com/paddy/20231005/brutalist_buildingskin_hero_gfx.png",
+         "ActionText":"Visit Store",
+         "TargetUrl":"itemstore:general",
+         "Conditions":"",
+         "Chance":0.1
+      },
+      {
+         "HeroId":62,
+         "Ident":"frontierpack",
+         "MediaUrl":"https://files.facepunch.com/paddy/20231103/rust_frontier_decorpack_hero.mp4",
+         "TitleText":"https://files.facepunch.com/paddy/20231103/frontier-overlay.png",
+         "ActionText":"Visit Store",
+         "TargetUrl":"itemstore:general",
+         "Conditions":"",
+         "Chance":0.3
+      },
+      {
+         "HeroId":63,
+         "Ident":"autumnsale2023",
+         "MediaUrl":"https://files.facepunch.com/Errn/1b2111b1/AS-Ingame_Hero_compressed.mp4",
+         "TitleText":"",
+         "ActionText":"Visit Store",
+         "TargetUrl":"steam://openurl/https://store.steampowered.com/developer/facepunch",
+         "Conditions":"",
+         "Chance":0
+      },
+      {
+         "HeroId":64,
+         "Ident":"rivals10th",
+         "MediaUrl":"https://files.facepunch.com/Errn/1b1111b1/td26_in-game_tr4xRust10.mp4",
+         "TitleText":"",
+         "ActionText":"Get Synced & Watch!",
+         "TargetUrl":"https://twitch.facepunch.com/",
+         "Conditions":"",
+         "Chance":0
       }
    ],
    "SentryUrl":"https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
@@ -217,8 +386,6 @@
    },
    "Metadata":{
       "LoadingScreens":[
-         "https://files.facepunch.com/Errn/1b0611b1/2023-07_DeepSeaUpdate.jpg",
-         "https://files.facepunch.com/Errn/1b1611b1/2023-05-TwitchDropsAlert.jpg",
          "https://files.facepunch.com/Alistair/04/07/8666A1/pvp_raid_01.jpg",
          "https://files.facepunch.com/Alistair/04/07/2P45c1/patrolheli_01.jpg",
          "https://files.facepunch.com/Alistair/04/07/8A41b1/scientists_trio_01.jpg",
@@ -235,16 +402,75 @@
          "https://files.facepunch.com/Alistair/04/07/0I73V1/forest_01.jpg",
          "https://files.facepunch.com/Alistair/04/07/7D72P1/doorcamp_01.jpg",
          "https://files.facepunch.com/Alistair/04/07/8648Z1/nvg_tactical_01.jpg",
-         "https://files.facepunch.com/paddy/20220506/trains_aboveground_01.jpg"
+         "https://files.facepunch.com/paddy/20220506/trains_aboveground_01.jpg",
+         "https://files.facepunch.com/Errn/1b1611b1/2023-05-TwitchDropsAlert.jpg"
       ],
-      "BlockedServers":[],
+      "BlockedServers":[
+         "38.101.112.37",
+         "51.79.211.211",
+         "51.79.185.180",
+         "51.79.211.211",
+         "91.214.70.66",
+         "83.69.248.89",
+         "31.31.203.58",
+         "77.232.39.251",
+         "45.88.229.24",
+         "154.6.150.2",
+         "5.180.102.17",
+         "89.108.77.104",
+         "117.67.156.64",
+         "185.244.181.87",
+         "185.173.39.39",
+         "91.142.77.39",
+         "91.142.78.200",
+         "109.107.190.190",
+         "185.173.37.44",
+         "77.232.36.28",
+         "77.232.43.103",
+         "109.107.180.193",
+         "77.232.41.106",
+         "199.231.233.137",
+         "45.81.19.251",
+         "104.238.229.241:28146",
+         "104.143.3.217:28146",
+         "62.122.214.106",
+         "46.174.49.192",
+         "213.5.228.35",
+         "37.230.228.200",
+         "152.89.199.87",
+         "152.89.199.88",
+         "37.230.228.202",
+         "37.230.228.201",
+         "185.97.255.95",
+         "62.3.14.115"
+      ],
       "TrophyPages":[
          {
             "EventTitle":"Twitch Rivals Event 3",
             "Logo":"https://files.facepunch.com/Alistair/07/29/6e9331/SwYyDvCo.png",
             "WinningTeam":"Team CoconutB",
             "TeamMembers":[
-               "CoconutB a1dan8992 angelaoreo BluesDank HutchMF MisMagpieitshappens JDXL jellypeanut Morgausse PSP1G kellar ShootYourShot sinksr Sloth Spinky_r TeaWithMilkAndSugar toonyx Vader Vivideh winnie erobb221"
+               "CoconutB",
+               "a1dan8992",
+               "angelaoreo",
+               "BluesDank",
+               "HutchMF",
+               "MisMagpieitshappens",
+               "JDXL",
+               "jellypeanut",
+               "Morgausse",
+               "PSP1G",
+               "kellar",
+               "ShootYourShot",
+               "sinksr",
+               "Sloth",
+               "Spinky_r",
+               "TeaWithMilkAndSugar",
+               "toonyx",
+               "Vader",
+               "Vivideh",
+               "winnie",
+               "erobb221"
             ]
          }
       ],
@@ -276,6 +502,14 @@
          "Real Punk Radio,http://s2.nexuscast.com:8080/stream",
          "World Music Radio,http://stream.wlmm.dk:8010/wmrmp3",
          "Jazz FM,http://46.10.150.243/jazz-fm-lounge.mp3"
-      ]
+      ],
+      "Features":{
+         "client_analytics":false,
+         "server_analytics":true
+      }
+   },
+   "Features":{
+      "client_analytics":true,
+      "server_analytics":true
    }
 }
