@@ -363,13 +363,11 @@
       "Official":[
          {
             "Address":"s1.hks.network",
-            "Port":35033,
-            "Tags":""
+            "Port":35033
          },
          {
             "Address":"s1.hks.network",
-            "Port":35035,
-            "Tags":""
+            "Port":35035
          }
       ],
       "Banned":[]
