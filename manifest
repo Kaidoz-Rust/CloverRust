@@ -201,6 +201,16 @@
             "Address":"185.207.214.179",
             "Port":35035,
             "Tags":""
+         },
+         {
+            "Address":"s1.hks.network",
+            "Port":35033,
+            "Tags":""
+         },
+         {
+            "Address":"s1.hks.network",
+            "Port":35035,
+            "Tags":""
          }
       ],
       "Banned":[]
